@@ -1,0 +1,9 @@
+<svg data-depth="0.05" id="banner-main-svg" viewBox="0 0 220 100" xmlns="http://www.w3.org/2000/svg" style="transform: translate3d(-11.4px, -2.0625px, 0px);">
+                <defs>
+                    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(120)">
+                        <stop offset="0%" style="stop-color:#204290;stop-opacity:1"></stop>
+                        <stop offset="40%" style="stop-color:#79BBF6;stop-opacity:1"></stop>
+                    </linearGradient>
+                </defs>
+                <rect width="100" height="100" rx="8" fill="url(#grad1)"></rect>
+            </svg>
